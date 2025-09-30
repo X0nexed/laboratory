@@ -1,9 +1,0 @@
-{
-  "name": "1-hoisting",
-  "version": "yarn init",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "eslint": "^9.35.0"
-  }
-}
